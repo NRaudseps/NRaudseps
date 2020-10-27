@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hi! My name is Niklavs. I am actively learning to become a better software engineer and here I post my personal projects.
+
+Some of my Personal Projects:
+  Rock Paper Scissors Lizard Spock: https://github.com/NRaudseps/RPSLS
+  The classic game, but with 2 more added options.
+
+LinkedIn Profile: https://www.linkedin.com/in/niklavs-raudseps-6126451ba/
+
 <!--
 **NRaudseps/NRaudseps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
