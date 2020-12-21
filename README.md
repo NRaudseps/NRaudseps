@@ -1,13 +1,18 @@
 # Hi there 👋
 
-My name is Niklavs. I am actively learning to become a better software engineer.
+
+Welcome to my evil lair ! 😈
+
+My name is Niklavs.
+
+I am actively learning to become a better software engineer.
 
 ### Currently Learning 
-<img src=php.svg alt=php height="42" width="42"><img src=laravel.svg alt=laravel height="42" width="42"><img src=tailwindcss.svg alt=tailwindcss height="42" width="42" style="--color_fill: #38B2AC;"><img src=vue.svg alt=vue height="42" width="42">
+<img src=php.svg alt=php height="42" width="42"> <img src=laravel.svg alt=laravel height="42" width="42"> <img src=tailwindcss.svg alt=tailwindcss height="42" width="42"> <img src=vue.svg alt=vue height="42" width="42">
 <hr>
 
 
-<h2 align="center">Some of my Personal Projects</h2>
+<h2 align="center">Some of my FAAAAAAV Projects</h2>
 
 <br>
 
@@ -24,12 +29,17 @@ My name is Niklavs. I am actively learning to become a better software engineer.
 </p>
 
 <br>
-<hr>
 
+Projects:
+1. Birdboard - A Basecamp like application where users can create projects and save tasks. Users can also invite other users to their project. Built with Laravel and TailwindCSS
+2. Stock Tracker - A command line API that tracks prices and stock from retailer products. Built with Laravel
+3. Rock Paper Scissors Lizard Spock - It's Rock Paper Scissors. BUT ON STEROIDS!!! Built with vanilla PHP.
 
 Click GIF to see the repo. ☝️
 
-Links to my profiles: 
+<hr>
+
+You can contact me at nraudseps@gmail.com or by PM on linkedin. Hope to see you soon! 🤗
 
 [<img alt="linkedin" height="42" width="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" style="filter: invert(1)"/>](https://www.linkedin.com/in/niklavs-raudseps/)
 
