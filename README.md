@@ -1,14 +1,29 @@
-### Hi there 👋
+## Hi there 👋
 
-Hi! My name is Niklavs. I am actively learning to become a better software engineer and here I post my personal projects.
+My name is Niklavs. I am actively learning to become a better software engineer.
+
+Currently learning 
+
+<img alt="tailwindcss" height="42" width="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg" style="filter: invert(1)"/>
+<img alt="vue.js" height="42" width="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vue-dot-js.svg" style="filter: invert(1)"/>
+<img alt="php" height="42" width="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" style="filter: invert(1)"/>
+<img alt="laravel" height="42" width="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg" style="filter: invert(1)"/>
+
 
 Some of my Personal Projects:
-  * Rock Paper Scissors Lizard Spock: https://github.com/NRaudseps/RPSLS
-      * The classic game, but with 2 more added options.
-  * Simple Blog: https://github.com/NRaudseps/codelex-blog
-  * Game Of Life https://github.com/NRaudseps/icy-game-of-life
 
-LinkedIn Profile: https://www.linkedin.com/in/niklavs-raudseps-6126451ba/
+  Birdboard: [![birdboard](birdboard.gif)](https://github.com/NRaudseps/birdboard)
+
+  Stock Tracker: [![stock](In_Stock.gif)](https://github.com/NRaudseps/stock-tracker)
+
+  Rock Paper Scissors Lizard Spock:[![rpsls](rpsls.gif)](https://github.com/NRaudseps/RPSLS) 
+
+Click GIF to see the repo. ☝️
+
+Links to my profiles: 
+
+[<img alt="linkedin" height="42" width="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" style="filter: invert(1)"/>](https://www.linkedin.com/in/niklavs-raudseps/)
+
 
 <!--
 **NRaudseps/NRaudseps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
