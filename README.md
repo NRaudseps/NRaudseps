@@ -1,25 +1,27 @@
-## Hi there 👋
+# Hi there 👋
 
 My name is Niklavs. I am actively learning to become a better software engineer.
 
-Currently learning 
+### Currently Learning 
+<img src=php.svg alt=php height="42" width="42">
 <img alt="tailwindcss" height="42" width="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg" style="fill: red"/>
 <img alt="vue.js" height="42" width="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vue-dot-js.svg" style="fill: red"/>
 <img alt="php" height="42" width="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" style="fill: red"/>
 <img alt="laravel" height="42" width="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg" style="fill: red"/>
 
+<br>
 
-<h3 align="center">Some of my Personal Projects</h3>
+<h2 align="center">Some of my Personal Projects</h2>
 
 <p align="center">
   <a href="https://github.com/NRaudseps/birdboard">
-    <img src=birdboard.gif alt=birdboard width="250"/>
+    <img src=birdboard.gif alt=birdboard width="250" height="400"/>
   </a>
   <a href="https://github.com/vladislavs-poznaks/game-aggregator">
-    <img src=In_Stock.gif alt=stock width="250"/>
+    <img src=In_Stock.gif alt=stock width="250" height="400"/>
   </a>
   <a href="https://github.com/NRaudseps/RPSLS">
-    <img src=rpsls.gif alt=rpsls width="250"/>
+    <img src=rpsls.gif alt=rpsls width="250" height="400"/>
   </a>
 </p>
 
