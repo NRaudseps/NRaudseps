@@ -20,7 +20,7 @@ I am actively learning to become a better software engineer.
   <a href="https://github.com/NRaudseps/birdboard">
     <img src=birdboard.gif alt=birdboard width="250" height="150"/>
   </a>
-  <a href="https://github.com/vladislavs-poznaks/game-aggregator">
+  <a href="https://github.com/NRaudseps/game-aggregator">
     <img src=In_Stock.gif alt=stock width="250" height="150"/>
   </a>
   <a href="https://github.com/NRaudseps/RPSLS">
