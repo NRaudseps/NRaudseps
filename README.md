@@ -12,7 +12,7 @@ I am actively learning to become a better software engineer.
 <hr>
 
 
-<h2 align="center">Some of my FAAAAAAV Projects</h2>
+<h2 align="center">Some of my Favorite Personal Projects</h2>
 
 <br>
 
